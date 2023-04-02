@@ -20,9 +20,13 @@ public class DemoYyyApplication {
 	/**
 	  EIIIII
 	*/
-	public int returnString(){
+	public String returnString(){
 		
 		 String wel="welcome to Beijing";
 		return wel;
+	}
+	public int getVal(){
+	 int aa= 100;
+		return aa;
 	}
 }
