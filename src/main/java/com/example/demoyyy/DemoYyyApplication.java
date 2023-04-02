@@ -17,4 +17,12 @@ public class DemoYyyApplication {
 		int i=100;
 		return i++;
 	}
+	/**
+	  EIIIII
+	*/
+	public int returnString(){
+		
+		 String wel="welcome to Beijing";
+		return wel;
+	}
 }
