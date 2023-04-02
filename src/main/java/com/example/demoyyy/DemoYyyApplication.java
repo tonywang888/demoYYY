@@ -26,7 +26,7 @@ public class DemoYyyApplication {
 		return wel;
 	}
 	public int getVal(){
-	 int aa= 100;
+	 int aa= 1010;
 		return aa;
 	}
 }
