@@ -10,7 +10,7 @@ public class DemoYyyApplication {
 		SpringApplication.run(DemoYyyApplication.class, args);
 	}
 	public void stavi(){
-	     String aa = "11111";
+	     String aa = "11111555555222";
 		System.out.println(11);
 	}
 	public int returnInt(){
